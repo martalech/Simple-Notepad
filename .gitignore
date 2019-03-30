@@ -337,3 +337,4 @@ __pycache__/
 tealiumcsharp/*/bin
 tealiumcsharp/*/obj
 
+Generated*Files/
