@@ -13,3 +13,4 @@ This is a simple text editor written in C++ with Qt framework. It allows user to
 
 ## About Project
 Written with Visual Studio 2017 using Qt plugin.
+Compiled with Qt 5.11.1.
