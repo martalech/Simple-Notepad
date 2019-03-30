@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Notepad">
+        <file>Resources/saveFile.png</file>
+        <file>Resources/openFile.png</file>
+        <file>Resources/newFile.png</file>
+        <file>Resources/zoomIn.png</file>
+        <file>Resources/zoomOut.png</file>
+        <file>Resources/closeAll.png</file>
+        <file>Resources/closeFile.png</file>
+        <file>Resources/copy.png</file>
+        <file>Resources/cut.png</file>
+        <file>Resources/find.png</file>
+        <file>Resources/font.png</file>
+        <file>Resources/notepad.ico</file>
+        <file>Resources/paste.png</file>
+        <file>Resources/redo.png</file>
+        <file>Resources/saveAll.png</file>
+        <file>Resources/textColor.png</file>
+        <file>Resources/undo.png</file>
+        <file>Resources/blackSquare.png</file>
+    </qresource>
+</RCC>
