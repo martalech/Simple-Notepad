@@ -1,4 +1,4 @@
-# Simple Notepad
+# Simple-Notepad
 This is a simple text editor written in C++ with Qt framework. It allows user to perform basic operations on text files. 
 
 ![Screenshot1](Notepad.png)
